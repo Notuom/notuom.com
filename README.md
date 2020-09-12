@@ -1,1 +1,3 @@
-# Notuom.github.io
+# notuom.com
+
+Static website for my GitHub stuff.
